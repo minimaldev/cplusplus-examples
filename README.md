@@ -1,4 +1,6 @@
-cplusplus-examples
+c++-examples
 ==================
 
-examples of c++
+examples of c++ for newbies
+
+ejemplos c++ para novatos
